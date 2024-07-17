@@ -11,3 +11,6 @@ def multiply(a,b):
 
 def fac(num):
     return num 
+
+def mod(num):
+    return num
